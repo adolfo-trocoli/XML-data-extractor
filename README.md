@@ -46,6 +46,11 @@ The program needs exactly four arguments to provide it's function:
  - Code to search. It must follow the syntax: {3 or 4 numbers}-{between 3 and 8 alphanumeric characters}. Examples could be *327-ABC*, *922-WXYZ*, *1234-JML2JML3*.
  - Output XML file: It must be a **writable** XML file.
  - Output JSON file: It must be a **writable** JSON file. 
+#### Sample input and output files
+There are some sample files in the repo to showcase functionality
+- Sample input: catalogo.xml
+- Sample XML output: salida.xml
+- Sample JSON output: salida.json
 
 ## Room for Improvement
 
