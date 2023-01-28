@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchResults xmlns="http://www.piat.dte.upm.es/ResultadosBusquedaP4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.piat.dte.upm.es/ResultadosBusquedaP4 ResultadosBusquedaP4.xsd ">
+
+	<summary>
+		<query>018</query>
+		<numConcepts>96</numConcepts>
+		<numDatasets>6</numDatasets>
+	</summary>
+	<results>
+		<concepts>
+			<concept id="https://datos.madrid.es/egob/kos/actividades"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/1ciudad21distritos"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesCalleArteUrbano"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Ajedrez"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Atletismo"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Automovilismo"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Baloncesto"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Balonmano"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Ciclismo"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Futbol"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Gimnasia"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Golf"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Hipica"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Hockey"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Motociclismo"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Natacion"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Padel"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Patinaje"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Tenis"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Triatlon"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesEscolares"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActosReligiosos"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ActosSolidarios"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Campamentos"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/CineDocumental"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/CineExperimental"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/CineFiccion"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CineActividadesAudiovisuales/Fotografia"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CircoMagia"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ComemoracionesHomenajes"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConcursosCertamenes"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Arte"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/CulturaLibre"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Historia"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Literatura"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ConferenciasColoquios/Permacultura"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CongresosJornadas"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CursosTalleres"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Arte"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CursosTalleres/CulturaLibre"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Historia"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Literatura"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/CursosTalleres/Permacultura"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/DanzaBaile"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/DanzaBaile/ClasicaEspanola"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/DanzaBaile/ContemporaneaBreakdanceHipHop"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/DanzaBaile/Flamenco"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/DanzaBaile/FolcloreEtnica"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/DanzaBaile/SalonTango"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ExcursionesItinerariosVisitas"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Ferias"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Festivales"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasCarnavales"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasNavidadesReyes"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasNavidadesReyes/Belenes"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasNavidadesReyes/Cabalgatas"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasRamadan"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasSanIsidro"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/FiestasSemanaSanta"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Gastronomia"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ItinerariosOtrasActividadesAmbientales"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/JOBO"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/LGTBI"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/CantautorFolkCountry"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/Clasica"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/CoroGospel"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/DjsElectronicaExperimental"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/EtnicaBatucada"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/Flamenco"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/JazzSoulFunkySwingReagge"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/LatinaEspanola"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/RapHipHop"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/RockPop"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/Musica/Zarzuela"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ProgramaTandem"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ProgramacionDestacadaAgendaCultura"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/RecitalesPresentacionesActosLiterarios"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Clasico"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/ComediaMonologo"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Drama"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/MusicalCabaret"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Opera"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/TeatroPerformance/Performance"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/VeranosVilla"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ZMUPI"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ZNewsletter"/>
+			<concept id="https://datos.madrid.es/egob/kos/actividades/ZOposiciones"/>
+		</concepts>
+		<datasets>
+			<dataset id="https://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.json">
+				<title>Eventos municipales para el fomento de la igualdad de oportunidades los próximos 100 días</title>
+				<description>Relación de eventos y actividades municipales para el fomento de la igualdad de oportunidades, que se van a celebrar en los próximos 100 dias y/o que se están celebrando. Incluye información relativa a los colectivos de mujeres y de inmigrantes. Tenga en cuenta que hay ciertas actividades que aunque son gratuitas , requieren inscripción previa. En el campo 'CONTENT-URL', esta la url donde puede obtener información adicional de la actividad y donde se especifíca si se requiere inscripción y como realizarla . Hay otras actividades, que si tienen un coste asociado, igualmente tiene la información en la url anterior.</description>
+				<theme>http://datos.gob.es/kos/sector-publico/sector/sociedad-bienestar</theme>
+			</dataset>
+			<dataset id="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<title>Actividades Culturales y de Ocio Municipal en los próximos 100 días</title>
+				<description>Relación de actividades de carácter cultural y de ocio, que se van a celebrar en los próximos 100 días y/o que se están celebrando, en centros Municipales . Podrá encontrar así las actividades de Centros Culturales, Socioculturales, Centros Juveniles, Bibliotecas, Centros de Mayores, Museos, Juntas de Distrito, etc. En este Portal, existen otros conjuntos de datos donde puede ver la relación de los diversos centros anteriores. Tenga en cuenta que hay ciertas actividades que aunque son gratuitas , requieren inscripción previa. En el campo 'CONTENT-URL', esta la url donde puede obtener información adicional de la actividad y donde se especifica si se requiere inscripción y como realizarla . Hay otras actividades, que si tienen un coste asociado, igualmente tiene la información en la url anterior. En el apartado 'Documentación asociada', hay un documento con la estructura del fichero y las recomendaciones y/o advertencias, que le permitirá usar y comprender mejor los datos.</description>
+				<theme>http://datos.gob.es/kos/sector-publico/sector/cultura-ocio</theme>
+			</dataset>
+			<dataset id="https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<title>Agenda de actividades deportivas</title>
+				<description>A continuación se refleja las actividades deportivas que se celebran en la ciudad de Madrid. Es importante destacar que no se trata de una relación exhaustiva de las actividades que se celebran en la vía publica o en recintos deportivos, sino solamente aquellas actividades que el Ayuntamiento de Madrid conoce y ha incluido en su web municipal: www.madrid.es</description>
+				<theme>http://datos.gob.es/kos/sector-publico/sector/deporte</theme>
+			</dataset>
+			<dataset id="https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<title>Agenda de actividades y eventos</title>
+				<description>Relación de actividades de distinto tipo que se van a celebrar o que se están celebrando, en centros municipales o asociados la actividad gestionada por el Ayuntamiento. Podrá encontrar así las actividades de Centros Culturales, Socioculturales, Centros Juveniles, Bibliotecas, Centros de Mayores, Museos, Juntas de Distrito, etc. En la columna P del fichero descargable, puede ver en que centro se realiza dicha actividad (puede ser en centros del ayuntamiento o no) No se trata de una relación exhaustiva de toda la actividad del Ayuntamiento de Madrid, sino solamente de aquellos que ya se encuentran incluidos en la página web www.madrid.es . Asi mismo pueden existir eventos, que por motivos de temática, pueden incluso estar duplicados. En este Portal, existen otros conjuntos de datos donde puede ver la relación de los diversos centros anteriores. Tenga en cuenta que hay ciertas actividades que aunque son gratuitas , requieren inscripción previa. En el campo 'CONTENT-URL', esta la url donde puede obtener información adicional de la actividad y donde se especifica si se requiere inscripción y como realizarla . Hay otras actividades, que si tienen un coste asociado, igualmente tiene la información en la url anterior. En la página siguiente tiene un buscador para poder encontrar una actividad en particular. En el apartado 'Documentación asociada', hay un documento con la estructura del fichero y las recomendaciones y/o advertencias, que le permitirá usar y comprender mejor los datos.</description>
+				<theme>http://datos.gob.es/kos/sector-publico/sector/cultura-ocio</theme>
+			</dataset>
+			<dataset id="https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<title>Actividades gratuitas en Bibliotecas Municipales en los próximos 60 días</title>
+				<description>Relación de actividades de carácter gratuito, para público infantil y adulto, desarrolladas por las siguientes instituciones de titularidad municipal: la red de Bibliotecas Públicas, la Biblioteca Histórica, la Biblioteca Musical Víctor Espinós, la Hemeroteca y la Imprenta. Se presentan las actividades de los próximos 60 dias. La oferta anual de actividades en la red de Bibliotecas Municipales en 2014 fue de 5.945 actividades y contó con la participación de 96.354 asistentes. Tenga en cuenta que hay ciertas actividades que aunque son gratuitas, requieren inscripción previa. En el campo 'CONTENT-URL', esta la url donde puede obtener información adicional de la actividad y donde se especifica si se requiere inscripción y como realizarla. Existen en el Portal otros 3 conjuntos de datos, que se encuentran relacionados con este como son: Bibliotecas y bibliobuses en la ciudad de Madrid Bibliotecas municipales: Catálogo Bibliotecas Municipales: Préstamos Activos Sigue a Bibliotecas del Ayuntamiento de Madrid en Redes sociales en: Twitter: @bpmmadrid Facebook: https://www.facebook.com/bpmmadrid YouTube: https://www.youtube.com/user/bpmmadrid Pinterest: https://www.pinterest.com/bpmmadrid/</description>
+				<theme>http://datos.gob.es/kos/sector-publico/sector/cultura-ocio</theme>
+			</dataset>
+			<dataset id="https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<title>Próximas carreras urbanas</title>
+				<description>A continuación se refleja datos de caracter provisional e informativo de las próximas carreras urbanas que se van a celebrar en la Ciudad. No se trata de una relación exhaustiva de todas las carreras del año, sino simplemente de las próximas a celebrarse y que tiene conocimiento el Ayuntamiento de Madrid. Este conjunto de datos, recoge los mismos datos que los que figuran en la web municipal www.madrid.es . También puede consultar la relación de próximas carreras , así como otras carreras y recomendaciones y otras existentes en la web municipal www.madrid.es .</description>
+				<theme>http://datos.gob.es/kos/sector-publico/sector/deporte</theme>
+			</dataset>
+		</datasets>
+		<resources>
+			<resource id="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/RecitalesPresentacionesActosLiterarios"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a35c54c3ec0f0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>12 de junio: Un viaje a los jardines de Madrid, con Pepo Paz Saz y Pablo Rubén López Sanz.</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</area>
+					<timetable>
+						<start>2022-06-12 12:00:00.0</start>
+						<end>2022-06-12 23:59:00.0</end>
+					</timetable>
+					<georeference>40.4166091081099 -3.6795930368034804 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=911d35b785ed0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>2ª Exposición colectiva de jubilados de CEPSA</title>
+				<location>
+					<eventLocation>Centro Cultural Antonio Machado (San Blas - Canillejas)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Arcos</area>
+					<timetable>
+						<start>2022-06-20 00:00:00.0</start>
+						<end>2022-06-30 23:59:00.0</end>
+					</timetable>
+					<georeference>40.42027705095574 -3.621741078700336 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Centro Cultural Antonio Machado (San Blas - Canillejas)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=b54ef531f6ee0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>2ª Noche de las Familias</title>
+				<location>
+					<eventLocation>Centro Deportivo Municipal Aluche</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/LasAguilas</area>
+					<timetable>
+						<start>2022-06-17 21:30:00.0</start>
+						<end>2022-06-17 23:59:00.0</end>
+					</timetable>
+					<georeference>40.382720517194784 -3.773653600881568 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Centro Deportivo Municipal Aluche</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a605420aae1b0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>6º Festival Internacional de Folclore de Latina – Folkfestival 'Ara de Madrid'</title>
+				<location>
+					<eventLocation>Auditorio al aire libre. Parque Aluche</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche</area>
+					<timetable>
+						<start>2022-06-05 21:45:00.0</start>
+						<end>2022-06-05 23:59:00.0</end>
+					</timetable>
+					<georeference>40.392680212409495 -3.7593572957930554 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Auditorio al aire libre. Parque Aluche</organizationName>
+				</organization>
+				<description>Con la participación de los grupos, 'Asociación Folclórica Cultural Azabache' (Málaga) bajo la dirección de Juan Antonio Perez, Grupo 'La Fiera' (Zaragoza), bajo la dirección de Héctor Artal Lafuente y Ballet 'Ara de Madrid', bajo la dirección de Carmina Villar.</description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=0673a54a53660810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>76º Certamen Salón de Primavera</title>
+				<location>
+					<eventLocation>Centro Cultural Casa del Reloj (Arganzuela)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela/Barrio/Chopera</area>
+					<timetable>
+						<start>2022-05-05 00:00:00.0</start>
+						<end>2022-05-30 23:59:00.0</end>
+					</timetable>
+					<georeference>40.394522745106734 -3.7000855961559855 </georeference>
+				</location>
+				<organization>
+					<accesibility>2</accesibility>
+					<organizationName>Centro Cultural Casa del Reloj (Arganzuela)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Natacion"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=ab793e53180cf710VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>Aula Deportiva Municipal de Aire Libre</title>
+				<location>
+					<eventLocation>Servicio de Actividades Educativas</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela/Barrio/Chopera</area>
+					<timetable>
+						<start>2021-10-01 10:00:00.0</start>
+						<end>2022-05-31 23:59:00.0</end>
+					</timetable>
+					<georeference>40.39415981141737 -3.6990213657093163 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Servicio de Actividades Educativas</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=2bc03e53180cf710VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>Aula Deportiva Municipal de Escalada</title>
+				<location>
+					<eventLocation>Instalación Deportiva Municipal Rocódromo 'Roc 30'</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Carabanchel/Barrio/SanIsidro</area>
+					<timetable>
+						<start>2021-10-01 10:00:00.0</start>
+						<end>2022-05-31 23:59:00.0</end>
+					</timetable>
+					<georeference>40.39927267070148 -3.718824070151145 </georeference>
+				</location>
+				<organization>
+					<accesibility>0</accesibility>
+					<organizationName>Instalación Deportiva Municipal Rocódromo 'Roc 30'</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=302ab2b0ea0cf710VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>Aula Deportiva Municipal de Esgrima</title>
+				<location>
+					<eventLocation>Centro Deportivo Municipal Vallehermoso</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Chamberi/Barrio/Vallehermoso</area>
+					<timetable>
+						<start>2021-10-01 10:00:00.0</start>
+						<end>2022-05-31 23:59:00.0</end>
+					</timetable>
+					<georeference>40.44064843863945 -3.709053489027435 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Centro Deportivo Municipal Vallehermoso</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/Golf"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=fbc1e1d72f0cf710VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>Aula Deportiva Municipal del Club de Campo</title>
+				<location>
+					<eventLocation>Club de Campo Villa de Madrid</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/CiudadUniversitaria</area>
+					<timetable>
+						<start>2021-10-01 10:00:00.0</start>
+						<end>2022-05-31 23:59:00.0</end>
+					</timetable>
+					<georeference>40.45157776010115 -3.7516183557587075 </georeference>
+				</location>
+				<organization>
+					<accesibility>3</accesibility>
+					<organizationName>Club de Campo Villa de Madrid</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=03c7616e390e0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>Carrera Liberty 2022. Carrera una meta para todos</title>
+				<location>
+					<eventLocation></eventLocation>
+					<area></area>
+					<timetable>
+						<start>2022-05-29 09:00:00.0</start>
+						<end>2022-05-29 23:59:00.0</end>
+					</timetable>
+					<georeference>  </georeference>
+				</location>
+				<organization>
+					<accesibility></accesibility>
+					<organizationName></organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/RecitalesPresentacionesActosLiterarios"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a35c54c3ec0f0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>12 de junio: Un viaje a los jardines de Madrid, con Pepo Paz Saz y Pablo Rubén López Sanz.</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</area>
+					<timetable>
+						<start>2022-06-12 12:00:00.0</start>
+						<end>2022-06-12 23:59:00.0</end>
+					</timetable>
+					<georeference>40.4166091081099 -3.6795930368034804 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=911d35b785ed0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>2ª Exposición colectiva de jubilados de CEPSA</title>
+				<location>
+					<eventLocation>Centro Cultural Antonio Machado (San Blas - Canillejas)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/SanBlas-Canillejas/Barrio/Arcos</area>
+					<timetable>
+						<start>2022-06-20 00:00:00.0</start>
+						<end>2022-06-30 23:59:00.0</end>
+					</timetable>
+					<georeference>40.42027705095574 -3.621741078700336 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Centro Cultural Antonio Machado (San Blas - Canillejas)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=b54ef531f6ee0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>2ª Noche de las Familias</title>
+				<location>
+					<eventLocation>Centro Deportivo Municipal Aluche</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/LasAguilas</area>
+					<timetable>
+						<start>2022-06-17 21:30:00.0</start>
+						<end>2022-06-17 23:59:00.0</end>
+					</timetable>
+					<georeference>40.382720517194784 -3.773653600881568 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Centro Deportivo Municipal Aluche</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Fiestas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a605420aae1b0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>6º Festival Internacional de Folclore de Latina – Folkfestival 'Ara de Madrid'</title>
+				<location>
+					<eventLocation>Auditorio al aire libre. Parque Aluche</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Latina/Barrio/Aluche</area>
+					<timetable>
+						<start>2022-06-05 21:45:00.0</start>
+						<end>2022-06-05 23:59:00.0</end>
+					</timetable>
+					<georeference>40.392680212409495 -3.7593572957930554 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Auditorio al aire libre. Parque Aluche</organizationName>
+				</organization>
+				<description>Con la participación de los grupos, 'Asociación Folclórica Cultural Azabache' (Málaga) bajo la dirección de Juan Antonio Perez, Grupo 'La Fiera' (Zaragoza), bajo la dirección de Héctor Artal Lafuente y Ballet 'Ara de Madrid', bajo la dirección de Carmina Villar.</description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/Exposiciones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=0673a54a53660810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>76º Certamen Salón de Primavera</title>
+				<location>
+					<eventLocation>Centro Cultural Casa del Reloj (Arganzuela)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Arganzuela/Barrio/Chopera</area>
+					<timetable>
+						<start>2022-05-05 00:00:00.0</start>
+						<end>2022-05-30 23:59:00.0</end>
+					</timetable>
+					<georeference>40.394522745106734 -3.7000855961559855 </georeference>
+				</location>
+				<organization>
+					<accesibility>2</accesibility>
+					<organizationName>Centro Cultural Casa del Reloj (Arganzuela)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/RecitalesPresentacionesActosLiterarios"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a35c54c3ec0f0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>12 de junio: Un viaje a los jardines de Madrid, con Pepo Paz Saz y Pablo Rubén López Sanz.</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</area>
+					<timetable>
+						<start>2022-06-12 12:00:00.0</start>
+						<end>2022-06-12 23:59:00.0</end>
+					</timetable>
+					<georeference>40.4166091081099 -3.6795930368034804 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=bf0df46154e00810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>A qué sabe la luna</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal Manuel Vázquez Montalbán (Tetuán)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/BellasVistas</area>
+					<timetable>
+						<start>2022-06-02 18:30:00.0</start>
+						<end>2022-06-02 23:59:00.0</end>
+					</timetable>
+					<georeference>40.45749513485957 -3.710539712535917 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal Manuel Vázquez Montalbán (Tetuán)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=139bf46154e00810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>A qué sabe la luna</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal Manuel Vázquez Montalbán (Tetuán)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Tetuan/Barrio/BellasVistas</area>
+					<timetable>
+						<start>2022-06-02 17:30:00.0</start>
+						<end>2022-06-02 23:59:00.0</end>
+					</timetable>
+					<georeference>40.45749513485957 -3.710539712535917 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal Manuel Vázquez Montalbán (Tetuán)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/CuentacuentosTiteresMarionetas"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=8dfaa68f9eaf0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>Animales fenomenales</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal San Fermín (Usera)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Usera/Barrio/SanFermin</area>
+					<timetable>
+						<start>2022-06-17 18:00:00.0</start>
+						<end>2022-06-17 23:59:00.0</end>
+					</timetable>
+					<georeference>40.3711623444796 -3.692742821990015 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,5,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal San Fermín (Usera)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/RecitalesPresentacionesActosLiterarios"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=bbe989dc850f0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>Anuncio de novedades de Hela Ediciones</title>
+				<location>
+					<eventLocation>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Retiro/Barrio/LosJeronimos</area>
+					<timetable>
+						<start>2022-06-05 12:30:00.0</start>
+						<end>2022-06-05 23:59:00.0</end>
+					</timetable>
+					<georeference>40.4166091081099 -3.6795930368034804 </georeference>
+				</location>
+				<organization>
+					<accesibility>1,6</accesibility>
+					<organizationName>Biblioteca Pública Municipal Eugenio Trías. Casa de Fieras de El Retiro (Retiro)</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=c07d7278ce0e0810VgnVCM1000001d4a900aRCRD]]> </link>
+				<title>Carrera Colores por la Igualdad y contra la Violencia</title>
+				<location>
+					<eventLocation></eventLocation>
+					<area></area>
+					<timetable>
+						<start>2022-05-29 09:00:00.0</start>
+						<end>2022-05-29 23:59:00.0</end>
+					</timetable>
+					<georeference>  </georeference>
+				</location>
+				<organization>
+					<accesibility></accesibility>
+					<organizationName></organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=03c7616e390e0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>Carrera Liberty 2022. Carrera una meta para todos</title>
+				<location>
+					<eventLocation></eventLocation>
+					<area></area>
+					<timetable>
+						<start>2022-05-29 09:00:00.0</start>
+						<end>2022-05-29 23:59:00.0</end>
+					</timetable>
+					<georeference>  </georeference>
+				</location>
+				<organization>
+					<accesibility></accesibility>
+					<organizationName></organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=e22e0312f5da0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>Half Madrid Triatlón</title>
+				<location>
+					<eventLocation>Centro Deportivo Municipal Lago Casa de Campo</eventLocation>
+					<area>https://datos.madrid.es/egob/kos/Provincia/Madrid/Municipio/Madrid/Distrito/Moncloa-Aravaca/Barrio/CasaCampo</area>
+					<timetable>
+						<start>2022-05-29 08:00:00.0</start>
+						<end>2022-05-29 23:59:00.0</end>
+					</timetable>
+					<georeference>40.417013097503705 -3.7314952685679943 </georeference>
+				</location>
+				<organization>
+					<accesibility>1</accesibility>
+					<organizationName>Centro Deportivo Municipal Lago Casa de Campo</organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=a16be672ca5f0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>Madrid Vintage Run</title>
+				<location>
+					<eventLocation></eventLocation>
+					<area></area>
+					<timetable>
+						<start>2022-06-05 09:00:00.0</start>
+						<end>2022-06-05 23:59:00.0</end>
+					</timetable>
+					<georeference>  </georeference>
+				</location>
+				<organization>
+					<accesibility></accesibility>
+					<organizationName></organizationName>
+				</organization>
+				<description></description>
+			</resource>
+			<resource id="https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json">
+				<concept id="https://datos.madrid.es/egob/kos/actividades/ActividadesDeportivas/CarrerasMaratones"/>
+				<link> <![CDATA[http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&vgnextoid=ba879605767b0810VgnVCM2000001f4a900aRCRD]]> </link>
+				<title>Media Maratón de Carabanchel 2022</title>
+				<location>
+					<eventLocation></eventLocation>
+					<area></area>
+					<timetable>
+						<start>2022-06-05 09:00:00.0</start>
+						<end>2022-06-05 23:59:00.0</end>
+					</timetable>
+					<georeference>  </georeference>
+				</location>
+				<organization>
+					<accesibility></accesibility>
+					<organizationName></organizationName>
+				</organization>
+				<description></description>
+			</resource>
+		</resources>
+	</results>
+</searchResults>

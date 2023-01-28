@@ -1,0 +1,56 @@
+{
+	"query": "018",
+	"numDataset": "6.0",
+	"infDatasets": [{
+			"id": "https://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.json",
+			"num": "0.0"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json",
+			"num": "5.0"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json",
+			"num": "5.0"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json",
+			"num": "5.0"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json",
+			"num": "5.0"
+		},
+		{
+			"id": "https://datos.madrid.es/egob/catalogo/300261-0-agenda-proximas-carreras.json",
+			"num": "5.0"
+		}
+	],
+	"titles": [
+		{ "title": "12 de junio: Un viaje a los jardines de Madrid, con Pepo Paz Saz y Pablo Rubén López Sanz." },
+		{ "title": "2ª Exposición colectiva de jubilados de CEPSA" },
+		{ "title": "2ª Noche de las Familias" },
+		{ "title": "6º Festival Internacional de Folclore de Latina – Folkfestival 'Ara de Madrid'" },
+		{ "title": "76º Certamen Salón de Primavera" },
+		{ "title": "Aula Deportiva Municipal de Aire Libre" },
+		{ "title": "Aula Deportiva Municipal de Escalada" },
+		{ "title": "Aula Deportiva Municipal de Esgrima" },
+		{ "title": "Aula Deportiva Municipal del Club de Campo" },
+		{ "title": "Carrera Liberty 2022. Carrera una meta para todos" },
+		{ "title": "12 de junio: Un viaje a los jardines de Madrid, con Pepo Paz Saz y Pablo Rubén López Sanz." },
+		{ "title": "2ª Exposición colectiva de jubilados de CEPSA" },
+		{ "title": "2ª Noche de las Familias" },
+		{ "title": "6º Festival Internacional de Folclore de Latina – Folkfestival 'Ara de Madrid'" },
+		{ "title": "76º Certamen Salón de Primavera" },
+		{ "title": "12 de junio: Un viaje a los jardines de Madrid, con Pepo Paz Saz y Pablo Rubén López Sanz." },
+		{ "title": "A qué sabe la luna" },
+		{ "title": "A qué sabe la luna" },
+		{ "title": "Animales fenomenales" },
+		{ "title": "Anuncio de novedades de Hela Ediciones" },
+		{ "title": "Carrera Colores por la Igualdad y contra la Violencia" },
+		{ "title": "Carrera Liberty 2022. Carrera una meta para todos" },
+		{ "title": "Half Madrid Triatlón" },
+		{ "title": "Madrid Vintage Run" },
+		{ "title": "Media Maratón de Carabanchel 2022" }
+	]
+}
