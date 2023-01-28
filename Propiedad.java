@@ -1,5 +1,3 @@
-package piat.opendatasearch;
-
 /**
  * Esta clase define una propiedad equivalente a "nombre":"valor" en JSON
  */
