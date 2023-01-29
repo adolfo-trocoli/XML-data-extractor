@@ -40,6 +40,14 @@ The program needs an input file, following the XML Schema of "Portal de datos ab
 - All code needed for compilation is included in primary directory. All .java files should be compiled (they already are compiled as .class files in bin directory).
 - There is a library (gson) which is needed to be added in compilation proccess. It is found in lib/ directory.
 
+Code can be compiled from main directory using:
+
+	javac * -classpath lib/gson-2.9.0.jar -d bin/
+
+Also .jar file can be created from bin directory using:
+
+	jar cmvf META-INF/MANIFEST.MF parser.jar *
+
 ## Argument format
 The program needs exactly four arguments to provide it's function:
  - Input file: it must be **readable** XML file.
@@ -76,7 +84,4 @@ Project is complete. Any additions, comments and requests are welcomed in the Is
 Created by [@adolfo-trocoli](github.com/adolfo-trocoli)
 
 LinkedIn [profile](https://www.linkedin.com/in/adolfo-trocol%C3%AD-naranjo-a07250224)
-
-
-
 
