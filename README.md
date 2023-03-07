@@ -6,19 +6,15 @@
 * [Functioning](#functioning)
 * [Features](#features)
 * [Setup](#setup)
-	* [Binary installation](#binary-installation)
+	* [Jar installation](#jar-installation)
 	* [Compilation from source code](#compilation-from-source-code)
-	* [Compilation with test suite](#compilation-with-test-suite)
-* [Usage](#usage)
-* [Configuration](#configuration)
+* [Argument format](#argument-format)
+	* [Sample input and output files](#sample-input-and-output-files)
 * [Room for Improvement](#room-for-improvement)
-* [Design patterns used](#design-patterns-used)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-* [Class diagram](#class-diagram)
-* [Screenshots](#screenshots)
 
 
 ## General Information
